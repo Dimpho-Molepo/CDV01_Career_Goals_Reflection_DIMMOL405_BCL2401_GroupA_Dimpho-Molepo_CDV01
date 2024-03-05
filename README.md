@@ -72,22 +72,22 @@
 
 1. **Anticipated Challenges**:
   
-    - Potential obstacles or challenges may include:
-    - The rapidly evolving nature of cybersecurity, requires continuous learning and adaptation.
-    - Competition in the cybersecurity job market, necessitates a strong skill set and relevant experience.
-    - Keeping up with emerging threats and technologies in the cybersecurity field.
+    Potential obstacles or challenges may include:
+        - The rapidly evolving nature of cybersecurity, requires continuous learning and adaptation.
+        - Competition in the cybersecurity job market, necessitates a strong skill set and relevant experience.
+        - Keeping up with emerging threats and technologies in the cybersecurity field.
 
     Strategies to Overcome Challenges:
-    - Strategies to overcome these challenges may include:
-    - Committing to lifelong learning and staying updated with the latest trends and technologies in cybersecurity.
-    - Gaining practical experience through internships, projects, or volunteering.
-    - Networking with professionals in the field and seeking mentorship opportunities.
+        - Strategies to overcome these challenges may include:
+        - Committing to lifelong learning and staying updated with the latest trends and technologies in cybersecurity.
+        - Gaining practical experience through internships, projects, or volunteering.
+        - Networking with professionals in the field and seeking mentorship opportunities.
 
 2. **Opportunities for Growth**:
 
-- Opportunities for career growth in cybersecurity include:
-  - Networking with professionals in the field to gain insights and potential job leads.
-  - Engaging in mentorship programs to receive guidance from experienced cybersecurity experts.
-  - Use educational opportunities, such as online courses or workshops to enhance your skills and knowledge.
+     Opportunities for career growth in cybersecurity include:
+        - Networking with professionals in the field to gain insights and potential job leads.
+        - Engaging in mentorship programs to receive guidance from experienced cybersecurity experts.
+        - Use educational opportunities, such as online courses or workshops to enhance your skills and knowledge.
 
 
