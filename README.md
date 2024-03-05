@@ -5,8 +5,8 @@
 
 - **Name: Dimpho Molepo**
 - **Date: 05/March/2024**
-- **Current Role/Position: Entry Level Front-End Developer**
-- **Field of Interest: Cybersecurity**
+- **Current Role/Position: Entry-Level Front-End Developer**
+- **Field of Interest: Web Development and Cybersecurity**
 
 ### Part 1: Self-Assessment Reflection
 
