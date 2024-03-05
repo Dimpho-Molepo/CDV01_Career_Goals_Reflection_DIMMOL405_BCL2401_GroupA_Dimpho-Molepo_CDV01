@@ -85,9 +85,9 @@
 
 2. **Opportunities for Growth**:
 
- Opportunities for career growth in cybersecurity include:
-  - Networking with professionals in the field to gain insights and potential job leads.
-  - Engaging in mentorship programs to receive guidance from experienced cybersecurity experts.
-  - Use educational opportunities, such as online courses or workshops to enhance your skills and knowledge.
+     Opportunities for career growth in cybersecurity include:
+      - Networking with professionals in the field to gain insights and potential job leads.
+      - Engaging in mentorship programs to receive guidance from experienced cybersecurity experts.
+      - Use educational opportunities, such as online courses or workshops to enhance your skills and knowledge.
 
 
